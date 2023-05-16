@@ -1,3 +1,5 @@
+# BloodAlibi // 2022
+
 import tkinter
 from tkinter import messagebox
 from random import choice
